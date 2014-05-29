@@ -76,22 +76,17 @@ namespace WindowsFormsApplication2
             label_Time_Counter.Text = "0";
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        public void button_Click(object sender, EventArgs e)
         {
-            but3.BackColor = Color.Red;
+            var button = (Button)sender;
+            if (button.BackColor != Color.Lime)
+            {
+                button.BackColor = Color.Lime;
+            }
+            else
+            {
+                button.BackColor = Color.White;
+            }
         }
-
-        private void button24_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void but1_Click(object sender, EventArgs e)
-        {
-
-        }
-
-
-
     }
 }
