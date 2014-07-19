@@ -9,15 +9,14 @@ namespace WindowsFormsApplication2
 {
     class Player
     {
-        public Color playerColor;
         public Player(Color color)
         {
-            playerColor = color;
+            Color playerColor = color;
         }
 
         public Color getColor()
         {
-            return playerColor;
+            
         }
     }
 }

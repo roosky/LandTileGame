@@ -8,13 +8,3 @@ c:\users\pmotard\documents\visual studio 2013\Projects\WindowsFormsApplication2\
 c:\users\pmotard\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
 c:\users\pmotard\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
 c:\users\pmotard\documents\visual studio 2013\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe.licenses
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
-C:\Users\pmotard\Documents\GitHub\LandTileGame\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
